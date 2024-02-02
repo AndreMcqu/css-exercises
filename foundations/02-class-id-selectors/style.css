@@ -1,0 +1,17 @@
+.background {
+    background-color: #f39d9d;
+}
+
+.text-size {
+    font-size: 24px;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourth {
+    font-weight: bold;
+    background-color: #0f0;
+}
